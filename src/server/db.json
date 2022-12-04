@@ -1,0 +1,94 @@
+{
+  "UserDetails": [
+    {
+      "id": "dineshkumar",
+      "firstName": "dinesh",
+      "lastName": "kumar",
+      "address": "no.12,bharathi nagarselaiyurchennai",
+      "accNumber": "1234",
+      "email": "dinesh@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Dndina@1030"
+    },
+    {
+      "id": "Vignesh",
+      "firstName": "Vignesh",
+      "lastName": "raja",
+      "address": "no.12 chennai tamilnadu",
+      "accNumber": "1234234",
+      "email": "dinesh@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Vignesh@123"
+    },
+    {
+      "id": "Rajendran",
+      "firstName": "Raja",
+      "lastName": "Rajendran",
+      "address": "madurai tamilnadu",
+      "accNumber": "1234234",
+      "email": "raja@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Raja@123"
+    },
+    {
+      "id": "deepikadeeps",
+      "firstName": "Deepika",
+      "lastName": "Deeps",
+      "address": "chennai tamil nadu",
+      "accNumber": "1234567",
+      "email": "deeps@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Deeps@123"
+    },
+    {
+      "id": "deeps26",
+      "firstName": "deeps",
+      "lastName": "srini",
+      "address": "1234 chennai",
+      "accNumber": "1234567",
+      "email": "deeps26@mail.co",
+      "phonenumber": "8765123400",
+      "password": "Dina@3003"
+    },
+    {
+      "id": "vicky123",
+      "firstName": "Vignesh",
+      "lastName": "Kumar",
+      "address": "Chennai,tamilnadu",
+      "accNumber": "12345678",
+      "email": "vigneshv@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Vicky@123"
+    },
+    {
+      "id": "dineshdk",
+      "firstName": "dinesh",
+      "lastName": "kumar",
+      "address": "chennai tamilnadu",
+      "accNumber": "12345675",
+      "email": "dineshdk@gmail.com",
+      "phonenumber": "9884255123",
+      "password": "Dndina@1030"
+    },
+    {
+      "id": "dkdina",
+      "firstName": "dina",
+      "lastName": "kumar",
+      "address": "chennai tamilnadu",
+      "accNumber": "12345678",
+      "email": "dinak300396@gmail.com",
+      "phonenumber": "9884255124",
+      "password": "Dndina@1030"
+    },
+    {
+      "id": "Riju23",
+      "firstName": "Rijuthaa",
+      "lastName": "Kanagaraj",
+      "address": "No14 amman koil2nd street,Chrompet",
+      "accNumber": "12345678",
+      "email": "kanagarajrijuthaa@gmail.com",
+      "phonenumber": "9566166180",
+      "password": "Riju@123"
+    }
+  ]
+}
